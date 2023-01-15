@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(249, 248, 248);
+}
+header{
+    width:auto ;height: 450px;
+    background-color: rgb(235, 234, 197);
+}
+
+section{
+    background-color: white;
+    margin-top: -320px;
+    margin-bottom: -200px;
+    align-items: center;
+    margin-left: 330px;
+    width: 800px;
+    height: 500px;
+    border-radius: 3%;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+#image{
+    height: 470px; 
+    width: 400px; 
+    margin-top: 14px;
+    margin-left: 18px;
+    border-radius: 2%;
+}
+#nom{
+    margin-left: 500px;
+    margin-top: -450px;
+    font-family: "Sofia", sans-serif;
+    font-size: 35px;
+}
+#titre{
+    margin-left: 530px;
+    font-size: 16px;
+}
+#paragraph{
+    margin-left: 450px;
+    margin-right: 20px;
+}
+#imgtél{
+    height: 20px;width: 20px;
+}
+#télephone{
+    margin-left: 520px;
+    margin-top: 40px;
+}
+#imgmail{
+    height: 23px;width: 23px;
+}
+#mail{
+    margin-left: 518px;
+}
+#imgadr{
+    height: 20px;width: 20px;
+}
+#adresse{
+    margin-left: 520px;
+}
+#fb{
+    height: 40px;width: 40px;
+    
+}
+#insta{
+    height: 40px;width: 40px;
+    
+}
+#twiter{
+    height: 40px;width: 40px;
+    
+}
+#tab{
+    margin-top: 40px;
+    margin-left: 550px;
+}
+nav{
+    height: 60px;
+    text-align: right;
+    margin-right: 150px;
+    
+}
+#a{
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+
+
+}
+#aa{
+    margin-left: 650px;
+}

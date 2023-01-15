@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(249, 248, 248);
+}
+
+header{
+    width:auto ;height: 100px;
+    background-color: rgb(235, 234, 197);
+}
+nav{
+    height: 60px;
+    text-align: right;
+    margin-right: 150px;
+    
+}
+a{
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+
+
+}
+#voley{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#volley{
+    background-color: white;
+    width: 900px;
+    height: 220px;
+    border-radius: 5%;
+    border: 1px solid rgb(235, 234, 197);
+    margin-top: 30px;
+    margin-left: 100px;
+}
+H3{
+    margin-left: 300px;
+    margin-top: -150px;
+}
+ul{
+    margin-left: 250px;
+}
+#football{
+    background-color: white;
+    width: 900px;
+    height: 220px;
+    border-radius: 5%;
+    border: 1px solid rgb(235, 234, 197);
+    margin-top: 30px;
+    margin-left: 500px;
+}
+#foot{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -130px;
+    margin-left: 20px;
+}
+

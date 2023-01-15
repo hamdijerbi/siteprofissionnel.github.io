@@ -1,0 +1,74 @@
+header{
+    width:auto ;height: 650px;
+    background-color: rgb(235, 234, 197);
+}
+nav{
+    height: 60px;
+    text-align: right;
+    margin-right: 134px;
+    
+}
+a{
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#image{
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+h1{
+    margin-left: 40px;
+    font-size: 30px;
+    color: white;
+}
+#head{
+    margin-top: -550px;
+    margin-left: 600px;
+}
+h5{
+    margin-left: -150px;
+    color: white;
+}
+h3{
+    margin-left: 90px;
+    font-size: 20px;
+    color: white;
+}
+#coordonné{
+    text-align: right;
+    margin-right: 30px;
+    color: white;
+}
+.adresse{
+    text-align: right;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+H2{
+    color:  white;
+    background-color: rgb(235, 234, 197);
+    text-transform: uppercase;
+    
+}
+.annee{
+    color: rgb(235, 234, 197);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+H3{
+    display: inline;
+}
+#vide{
+    background-color: white;
+    height: 20px;
+    
+}

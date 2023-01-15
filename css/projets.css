@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(249, 248, 248);
+}
+
+header{
+    width:auto ;height: 100px;
+    background-color: rgb(235, 234, 197);
+}
+nav{
+    height: 60px;
+    text-align: right;
+    margin-right: 150px;
+    
+}
+#a{
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.titre{
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-size: 3em;
+    font-weight: 800;
+    margin-top: 5px;
+}
+
+
+
+.projectcard{
+    background-color: #fff;
+    box-shadow: 2px 2px rgb(220, 220, 220);
+    height: 350px;
+    width: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease;
+    margin-top: 30px;
+}
+.projectcard:hover.projetimage{
+    opacity: 0.8;
+}
+.projetimage img{
+    width: 100%;
+}
+.projectcard2{ background-color: #fff;
+    box-shadow: 2px 2px rgb(220,220,220);
+    height: 350px;
+    width: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease; margin-left: 450px;
+    margin-top: -370px;
+
+}
+.projectcard3{ background-color: #fff;
+    box-shadow: 2px 2px rgb(220,220,220);
+    height: 350px;
+    width: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease;
+    margin-left: 875px; margin-top: -370px;
+
+}
+.appmobile{
+    height: 230px;
+}
+.projet_info{
+    padding:1em;
+}
+.pojet_category{
+    font-size: 0.8em;
+    color:#000;
+
+}
+
+.projet_title{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+#stage{background-color: #fff ; border-radius: 30%;font-size: 30px; text-decoration: none;}
+.projets{
+    margin-top: 30px;
+}
+#aa{
+    margin-left: 1300px;
+    margin-bottom: 30px;}
+    h1{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 80px;
+    }
